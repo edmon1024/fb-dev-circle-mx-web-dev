@@ -1,0 +1,32 @@
+body{
+  background-color: #3377FF;
+  font-family: sans-serif;
+}
+h1{
+  text-transform: uppercase;
+  font-size: 3em;
+}
+h3{
+  color: #FF33DD;
+  font-weight: bold;
+  font-size: 18px;
+}
+span{
+  text-decoration: line-through!important;
+}
+a{
+  color: #FFBB33!important;
+  text-decoration: overline!important;
+}
+.list-food{
+  color: #FFBB33!important;
+}
+.list-songs{
+  color: #FFBB33;
+}
+.list-movies{
+  color: #33FF55;
+}
+.list-books{
+  color: #33FF55;
+}
